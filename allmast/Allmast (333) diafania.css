@@ -1,0 +1,181 @@
+body{
+    background-color: #18478f;
+    text-align: center;
+
+    
+}
+.fwtografia2{
+    text-align: center;
+    width: 650px;
+    height: 150px;
+}
+h1{  
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size:xx-large; 
+}
+img{
+    width: 350px;
+    height: 400px;
+}
+ 
+
+td {
+    border: 5px solid rgb(255, 0, 0);
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+       
+th {
+    border: 5px solid rgb(255, 0, 0);
+    background-color: #f2f2f2;
+    font-weight: bold;
+
+}
+tr:nth-child(even) {
+    background-color: #f9f9f9; 
+}
+
+.divallo{
+    text-align: center;
+    font-size: large;
+    border: 5px solid black;
+}
+
+.anoigomena2{
+    left: 0;
+    margin-left: 0px;
+}
+
+table {
+    background-color: white;
+    width: 600px;
+    border-collapse: collapse; 
+    margin: 20px auto; 
+    
+    
+}
+
+
+p{
+    right: 0;
+    text-align: left;
+    margin-left: 750px;
+    font-size: smaller;
+    
+    
+    
+} 
+.ylika{
+        font-size: medium;
+        text-align: left;
+        text-decoration: underline;
+        margin-left: 750px;
+        margin-top: -1250px;
+        margin-right: 150px;
+               
+}
+.ylika2{
+    color: #fdfdfd;
+    font-size: large;
+    text-align: left;
+    text-decoration: underline;
+    margin-left: 750px;
+
+    margin-right: 50px;
+}
+
+.ylika3{
+    color: #fdfdfd;
+    font-size: medium;
+    text-align: left;
+    text-decoration: underline;
+    margin-left: 750px;
+
+    margin-right: 50px;
+}
+
+h4{
+    text-align: center;
+    color: #ff0e0e;
+    font-size: xx-large;
+    text-decoration: underline;
+    margin-left: 750px;
+    margin-top: -10px;
+    margin-right: 50px;
+}
+
+
+h5{
+    color: #ff0000;
+    font-size: medium;
+    text-align: left;
+    margin-left: 750px;
+    margin-right: 50px;
+}
+
+h6{
+    color: #ff0404;
+    font-size: medium;
+    text-align: left;
+    margin-left: 750px;
+    margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+.geia{
+    background-color: white;
+}
+.geia2{
+    background-color: white;
+}
+.anoigomena{
+    color: rgb(0, 0, 0);
+ 
+}
+.suromena{
+    color: rgb(0, 0, 0);
+}
+.thermo{
+    color: rgb(0, 0, 0);
+}
+.q{
+    background-color: white;
+}
+.q1{
+    background-color: white;
+}
+.w{
+    background-color: white;
+}
+.w1{
+    background-color: white;
+}
+.KA{
+    border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divv{
+    padding-left: auto;
+    padding: auto;
+}
